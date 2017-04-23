@@ -2,8 +2,8 @@
 [![npm version](https://badge.fury.io/js/express.svg)](https://badge.fury.io/js/express)
 [![devDependency Status](https://david-dm.org/dwyl/esta/dev-status.svg)](https://david-dm.org/dwyl/esta#info=devDependencies)
 
-<h2>Base</h2>
-<p>A quick react/webpack sandbox</p>
+<h2>StarterKit</h2>
+<p>StarterKit is a simple starting point for building web apps with react, webpack, and express.</p>
 
 <h3>Instructions:</h3>
 - Clone the repo <br />
