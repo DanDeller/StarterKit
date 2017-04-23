@@ -7,7 +7,7 @@
 
 <h3>Instructions:</h3>
 - Clone the repo <br />
-- Install packages (npm i)
+- Install packages (yarn install)
 
 <h3>Start up the app</h3>
 - npm start
